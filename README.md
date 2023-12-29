@@ -26,7 +26,7 @@ process allows metal atoms to rearrange themselves into a more stable crystallin
 reducing defects and achieving a lower-energy state. Similarly, simulated annealing in optimization
 allows for a deliberate and probabilistic exploration of the solution space, which helps in finding a
 globally optimal solution by avoiding being trapped in local optima.
-You can find the demo of the dashboard at this [YouTube Link](https://www.youtube.com/watch?v=ouDgxJT0jHE) <br>
+
 <br>
 
 <p align="center">
@@ -35,7 +35,7 @@ You can find the demo of the dashboard at this [YouTube Link](https://www.youtub
 
 <br>
 
-The algorithm starts at a high temperature with a random initial solution and gradually finds an optimal solution after cooling down based on a neighborhood exploration strategy. The model flow charts looks like - 
+The algorithm starts at a high temperature with a random initial solution and gradually finds an optimal solution after cooling down based on a neighborhood exploration strategy. The model flow chart looks like - 
 <br>
 <br>
 <p align="center">
@@ -43,22 +43,9 @@ The algorithm starts at a high temperature with a random initial solution and gr
 </p>
 
 <br>
-
-
-## Data Preparation / Processing
-I used two datasets taken from Kaggle. 
-
-* US Census Demographic Data
-* US Accidents Data (2016 - 2021)
-
-The US census demographic data is generated/downloaded from **American Community Survey**, a
-demographics survey program conducted by the U.S. Census Bureau. 
-This other dataset is a country wide accident dataset, which covers 49 states and 3000 counties of the USA. The
-accident data are collected from February 2016 to Dec 2021, using multiple APIs that
-provide streaming traffic incident (or event) data. 
-
-The above data has **2.8M+** accidents records. I applied different data processing techniques such as - data reduction, filtering only specific year data, null rows imputation, duplicates handling, columns standardization/encoding, plots for outlier detection and removal, feature extraction, merging two datasets, and clustering data using Kmeans algorithm.
-
+## Data 
+I have curated a dataset of the Top 50 real-world tourist attractions, with precise
+geographical coordinates and additional descriptions obtained from [latlong.net](https://www.latlong.net/country/united-states-236.html) <br>
 
 
 ## Dashboard Implementation & Components
