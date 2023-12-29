@@ -39,7 +39,7 @@ The algorithm starts at a high temperature with a random initial solution and gr
 <br>
 
 <p align="center">
-  <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/SA_flowchart.png" width="400" height="800">
+  <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/SA_flowchart.png" width="600" height="800">
 </p>
 
 <br>
