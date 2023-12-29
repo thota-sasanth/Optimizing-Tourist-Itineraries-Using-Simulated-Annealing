@@ -67,9 +67,9 @@ The below plots show the results for the best run for closed TSP scenario for 15
 The below plot shows how the total travel distance change w.r.t change in temperature - 
 
 <p align="center">
-  Starting Temperature 10000 
+  Starting Temperature 10000, 
   Initial Distance 49,585.69 kms <br>
-  Final Distance 19,561.03 kms 
+  Final Distance 19,561.03 kms,  
   Reduction 60.55% <br>
   
   <br>
