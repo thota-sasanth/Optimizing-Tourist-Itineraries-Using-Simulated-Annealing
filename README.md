@@ -47,29 +47,20 @@ I have curated a dataset of the Top 50 real-world tourist attractions, with prec
 geographical coordinates and additional descriptions obtained from [latlong.net](https://www.latlong.net/country/united-states-236.html) <br>
 
 
-## Dashboard Implementation & Components
-I implemented the dashboard as in a client-server architecture. The dashboard consist of advanced charts - 
+## Experiments / Simulations
+I worked on two different settings of the problem - Open and Closed versions of TSP. I conducted multiple experiments & simulation runs to find the best results for a given input. The dataset is shuffled & attractions are picked uniformly random as input for our model. The model parameters such as starting temperature, cooling factor, etc, are tuned. The best solution based on a pre-defined objective function (such as total travel distance, travel time, travel costs, weighted combinations) was stored. To ensure the reliability of the results, multiple replication runs were conducted with same order of attractions to reduce output variance. 
 
-* Zoomable Choropleth Map
-* Accident Severity Slider
-* Parallel Coordinates Plot
-* TreeMap
-* Stacked Bar Chart
-* Time Series Area Chart
-* Radial Bar Plot
 
-Every chart is linked with every other chart with wide range of **interactions**, **overlays**, **pop-ups**, and **brushings**. This way the user can easily get a deeper level of details and gain better insights.
+## Results
+The below plots show the results for the best run for closed TSP scenario for 15 tourist attractions - 
+
 <br>
 
-## Findings
-As the dataset taken is very large, there are a lot of insights that can be gathered after playing around with the dashboard. Some of the major findings I came across using the intearctions and dashboard are - 
+<p align="center">
+  <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/initial_sol.png" width="400" height="300"> <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/SA_sol.png" width="400" height="300">
+</p>
 
-* **Population has a high impact on accident rate**
-* **Weekdays have most number of accidents compared against weekends**
-* **8AM and 5PM are the peak times for accidents within a day**
-* **Juntion, Traffic Signal, and Crossings are the top 3 accidents prone POI (point of interest) areas**
-* **High humidity in the early mornings leads to more number of accidents**
-* **Counties with most accidents have higher office job population compared to service job population**
+<br>
 
 You can gather a lot more insights leveraging this custom-designed visual analytics dashboard.
 <br>
