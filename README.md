@@ -28,9 +28,9 @@ allows for a deliberate and probabilistic exploration of the solution space, whi
 globally optimal solution by avoiding being trapped in local optima.
 You can find the demo of the dashboard at this [YouTube Link](https://www.youtube.com/watch?v=ouDgxJT0jHE) <br>
 <br>
-<p align="center">
+
   <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/SA.png" width="400" height="250">
-</p>
+
 <br>
 
 ## Data Preparation / Processing
