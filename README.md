@@ -57,11 +57,13 @@ The below plots show the results for the best run for closed TSP scenario for 15
 <br>
 
 <p align="center">
-  Before :
+  Before
+  <br>
   <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/initial_sol.png" width="800" height="400"> 
 </p>
-After :
 <p align="center">
+  After
+  <br>
   <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/SA_sol.png" width="800" height="400">
 </p>
 
