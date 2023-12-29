@@ -64,12 +64,16 @@ The below plots show the results for the best run for closed TSP scenario for 15
   <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/SA_sol.png" width="800" height="400">
 </p>
 
-The below plot shows how the total travel distance change w.r.t change in temperature. 
+The below plot shows how the total travel distance change w.r.t change in temperature - 
 
 <p align="center">
-  Starting Temperature 10000, Initial Distance 49,585.69 kms, Final Distance 19,561.03 kms, Reduction 60.55%
+  Starting Temperature 10000
+  Initial Distance 49,585.69 kms
+  Final Distance 19,561.03 kms
+  Reduction 60.55%
+  
   <br>
-  <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/Temperature_variation.png" width="800" height="400"> 
+  <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/Temperature_variation.png" width="600" height="300"> 
 </p>
 
 Overall, the application of simulated annealing to itinerary optimization has proven to be a robust
