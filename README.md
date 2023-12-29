@@ -35,6 +35,16 @@ You can find the demo of the dashboard at this [YouTube Link](https://www.youtub
 
 <br>
 
+The algorithm starts at a high temperature with a random initial solution and gradually finds an optimal solution after cooling down based on a neighborhood exploration strategy. The model flow charts looks like - 
+<br>
+
+<p align="center">
+  <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/SA_flowchart.png" width="400" height="800">
+</p>
+
+<br>
+
+
 ## Data Preparation / Processing
 I used two datasets taken from Kaggle. 
 
