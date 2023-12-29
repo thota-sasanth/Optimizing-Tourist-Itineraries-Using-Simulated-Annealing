@@ -29,9 +29,14 @@ globally optimal solution by avoiding being trapped in local optima.
 You can find the demo of the dashboard at this [YouTube Link](https://www.youtube.com/watch?v=ouDgxJT0jHE) <br>
 <br>
 
-  <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/SA.png" width="400" height="250">
-  <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/SA.png" width="400" height="250">
+  <img src="https://github.com/thota-sasanth/Road-Accidents-Interactive-Dashboard/blob/main/dashboard.png" width="1000" height="500">
 
+<p align="left">
+  <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/SA.png" width="400" height="250">
+</p>
+<p align="right">
+  <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/SA.png" width="400" height="250">
+</p>
 <br>
 
 ## Data Preparation / Processing
