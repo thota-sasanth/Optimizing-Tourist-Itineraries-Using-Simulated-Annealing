@@ -42,8 +42,6 @@ The algorithm starts at a high temperature with a random initial solution and gr
   <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/SA_flowchart.png" width="450" height="700">
 </p>
 
-<br>
-
 ## Data 
 I have curated a dataset of the Top 50 real-world tourist attractions, with precise
 geographical coordinates and additional descriptions obtained from [latlong.net](https://www.latlong.net/country/united-states-236.html) <br>
