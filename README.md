@@ -8,8 +8,7 @@ For a given set of tourist attractions, I plan to provide a quick and optimal tr
 In an age where tourism is not just a leisure activity but a pursuit of cultural and personal
 enrichment, the complexity of planning the perfect travel itinerary remains a universal
 concern for travelers worldwide. Tourists often grapple with the complexities of optimizing their travel plans, attempting to strike a
-delicate balance between maximizing exploration and minimizing logistical hurdles. This project aims to introduce an effective solution and serve as a valuable tool for tourists exploring
-a new country or anyone seeking assistance in crafting personalized and efficient travel itineraries.
+delicate balance between maximizing exploration and minimizing logistical hurdles. This project aims to introduce an effective solution for optimizing tourist itineraries.
 
 On a high level, this problem is a variant of the Traveling Salesman Problem (TSP). We know
 that TSP is an NP-hard problem, meaning that as the number of cities increases, the number of
@@ -60,13 +59,21 @@ The below plots show the results for the best run for closed TSP scenario for 15
   <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/initial_sol.png" width="800" height="400"> 
 </p>
 <p align="center">
-  Final Solution having a total distance of 11,696.17 kms
+  Final Solution having a total distance of 11,696.17 kms (around 68% reduction) 
   <br>
   <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/SA_sol.png" width="800" height="400">
 </p>
 
-<br>
+The below plot shows how the total travel distance change w.r.t change in temperature. 
 
-You can gather a lot more insights leveraging this custom-designed visual analytics dashboard.
+<p align="center">
+  Starting Temperature 10000, Initial Distance 49,585.69 kms, Final Distance 19,561.03 kms, Reduction 60.55%
+  <br>
+  <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/Temperature_variation.png" width="800" height="400"> 
+</p>
+
+Overall, the application of simulated annealing to itinerary optimization has proven to be a robust
+approach, capable of handling the complexity of the TSP with a high degree of efficiency. This project could be used as a valuable tool for tourists exploring
+a new country or anyone seeking assistance in crafting personalized and efficient travel itineraries.
 <br>
 <br>
