@@ -29,7 +29,7 @@ globally optimal solution by avoiding being trapped in local optima.
 You can find the demo of the dashboard at this [YouTube Link](https://www.youtube.com/watch?v=ouDgxJT0jHE) <br>
 <br>
 <p align="center">
-  <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/SA.png" width="800" height="400">
+  <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/SA.png" width="500" height="300">
 </p>
 <br>
 
