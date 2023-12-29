@@ -54,15 +54,13 @@ I worked on two different settings of the problem - Open and Closed versions of 
 ## Results
 The below plots show the results for the best run for closed TSP scenario for 15 tourist attractions - 
 
-<br>
-
 <p align="center">
-  Before
+  Initial Solution having a total distance of 36,294.76 kms
   <br>
   <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/initial_sol.png" width="800" height="400"> 
 </p>
 <p align="center">
-  After
+  Final Solution having a total distance of 11,696.17 kms
   <br>
   <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/SA_sol.png" width="800" height="400">
 </p>
