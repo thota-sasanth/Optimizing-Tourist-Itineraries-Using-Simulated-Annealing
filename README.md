@@ -73,7 +73,7 @@ The below plot shows how the total travel distance change w.r.t change in temper
   Reduction 60.55% <br>
   
   <br>
-  <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/Temperature_variation.png" width="400" height="300"> 
+  <img src="https://github.com/thota-sasanth/Optimizing-Tourist-Itineraries-Using-Simulated-Annealing/blob/main/Temperature_variation.png" width="500" height="400"> 
 </p>
 
 Overall, the application of simulated annealing to itinerary optimization has proven to be a robust
